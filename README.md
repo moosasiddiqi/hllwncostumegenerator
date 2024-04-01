@@ -1,3 +1,4 @@
 # mycode001
-All my beginner files of code will be deposited, mainly py and java.
+Welcome to my Halloween costume generator.
+To run this file you have to open this up in any source code editor and run as is.
 Enjoy!
